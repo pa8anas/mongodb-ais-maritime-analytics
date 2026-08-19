@@ -1,0 +1,15 @@
+[
+  {
+    "geometry": {
+      "type": "Point",
+      "coordinates": [23.64899, 37.93486]
+    },
+    "properties": {
+      "Lat": 37.93486,
+      "Lon": 23.64899,
+      "Port Name": "ZEA",
+      "type": "Marine",
+      "locode": "GRMAZ"
+    }
+  }
+]
