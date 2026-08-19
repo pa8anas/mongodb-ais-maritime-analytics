@@ -1,0 +1,5 @@
+query,description,index,p50_ms,p95_ms,docs_examined,returned,notes
+Q1,text + country,text_name + idx_country,45,103,,,Q1 scan/return values intentionally omitted until verified
+Q2,geoWithin 5 km,gix_geom,80,1267,2783,2000,
+Q3,near k=10,gix_geom,1734,2055,319519,20,Sharded execution statistics may aggregate shard-level work
+Q4,geo + time,gix_geom + idx_time_desc,2618,3098,1094104,2000,
