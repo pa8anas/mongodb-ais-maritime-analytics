@@ -1,0 +1,49 @@
+# MongoDB / local data
+*.bson
+*.archive
+*.gz
+*.zip
+*.tar
+*.7z
+*.log
+
+# Secrets / local configuration
+.env
+.env.*
+*.pem
+*.key
+*.crt
+config.local.*
+
+# Large datasets
+data/raw/
+data/full/
+*.csv
+*.jsonl
+*.ndjson
+
+# Keep small curated samples
+!data/samples/*.json
+!data/samples/*.md
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# LaTeX build artefacts
+*.aux
+*.bbl
+*.blg
+*.fls
+*.fdb_latexmk
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.xdv
+
+# Temporary files
+*.tmp
+*.bak
