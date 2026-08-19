@@ -45,7 +45,6 @@ The project is based on the **Maritime Activity - AIS Dataset for the Saronic Gu
 mongodb-ais-maritime-analytics/
 ├── README.md
 ├── CITATION.cff
-├── Makefile
 ├── scripts/
 │   ├── 01_create_indexes.js
 │   ├── 02_relational_queries.js
