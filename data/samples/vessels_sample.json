@@ -1,0 +1,26 @@
+[
+  {
+    "vessel_id": "2c46b2c29086c03cb774fa3fb0d9f4c22a793eb7e740321b5f17518a343dfc1e",
+    "country": "Albania",
+    "shiptype": {
+      "Type Code": 52,
+      "Description": "Tug"
+    }
+  },
+  {
+    "vessel_id": "65d24830f3884827d091152b8422c3ad125ce16a87a4ca125ba466818aa39b50",
+    "country": "Albania",
+    "shiptype": {
+      "Type Code": 40,
+      "Description": "High speed craft (HSC), all ships of this type"
+    }
+  },
+  {
+    "vessel_id": "9c85b935e6adfb37a058d42700148ebac634af54398188377c375e11e0c32ca6",
+    "country": "Albania",
+    "shiptype": {
+      "Type Code": 70,
+      "Description": "Cargo, all ships of this type"
+    }
+  }
+]
