@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this project, please cite this repository and the underlying Zenodo AIS dataset."
+title: "MongoDB AIS Maritime Analytics"
+type: software
+authors:
+  - family-names: "Athanasopoulos"
+    given-names: "Panagiotis"
+  - family-names: "Nouchou"
+    given-names: "Marina"
+  - family-names: "Achilleos"
+    given-names: "Anastasia"
+repository-code: "https://github.com/pa8anas/mongodb-ais-maritime-analytics"
+url: "https://github.com/pa8anas/mongodb-ais-maritime-analytics"
+keywords:
+  - MongoDB
+  - AIS
+  - maritime analytics
+  - geospatial
+  - GeoJSON
+  - sharding
+  - big data
+references:
+  - type: dataset
+    title: "Maritime Activity - AIS Dataset for the Saronic Gulf, Greece"
+    doi: "10.5281/zenodo.6323416"
