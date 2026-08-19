@@ -1,0 +1,22 @@
+[
+  {
+    "t": 1501534800000,
+    "vessel_id": "9e854ccb6855e244bd694010fcb8300633e1b1b631723a50f04765521c8f3a10",
+    "lon": 23.6829416667,
+    "lat": 37.9291066667,
+    "heading": null,
+    "speed": null,
+    "annotations": "['GAP_END']",
+    "transport_trail": "[{'topic': 'datacsv_saronikos_3', 'timestamp': 1501534800}]"
+  },
+  {
+    "t": 1501534801000,
+    "vessel_id": "fc3259289d42738781d2379756195537a3ae5d8aaad3ead67fece2e04ffb9ffb",
+    "lon": 23.5695,
+    "lat": 37.9277333333,
+    "heading": null,
+    "speed": null,
+    "annotations": "['GAP_END']",
+    "transport_trail": "[{'topic': 'datacsv_saronikos_3', 'timestamp': 1501534801}]"
+  }
+]
