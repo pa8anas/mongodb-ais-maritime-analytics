@@ -1,10 +1,9 @@
 # Academic reports
 
-This directory contains the academic reports for the project.
+This directory contains the final academic reports for the project.
 
 - `mongodb-ais-maritime-analytics-report-en.pdf` - English report
 - `mongodb-ais-maritime-analytics-report-gr.pdf` - Greek report
-- `main.tex` - English LaTeX source
 
 The reports cover:
 
@@ -18,23 +17,6 @@ The reports cover:
 8. Experimental methodology
 9. p50/p95 latency and execution statistics
 10. Limitations and future work
-
-## Build
-
-From the repository root:
-
-```bash
-make report
-```
-
-or directly:
-
-```bash
-cd report
-latexmk -xelatex -interaction=nonstopmode -halt-on-error main.tex
-```
-
-The checked-in PDFs are provided for convenience. LaTeX auxiliary files are excluded by `.gitignore`.
 
 ## Measurement note
 
