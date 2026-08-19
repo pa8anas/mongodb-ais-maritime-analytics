@@ -1,0 +1,23 @@
+[
+  {
+    "vessel_id": "6e414ea63d244165ab6b4e74ee96b384043d0fd3f99dbfc40a400eedf0ab81fc",
+    "heading": 186,
+    "speed": 14.7,
+    "course": 186.6,
+    "timestamp": { "$date": "2017-05-12T10:44:23.000Z" },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [23.622166666666693, 37.900999999999996]
+    }
+  },
+  {
+    "vessel_id": "a6137c45b3d5fce9f291e4f22ffa4a81fff2cebe6606c3e2342dc14ea15bbc03",
+    "speed": 0,
+    "course": 348.5,
+    "timestamp": { "$date": "2017-05-20T16:43:31.000Z" },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [23.6493616666667, 37.938473333333]
+    }
+  }
+]
